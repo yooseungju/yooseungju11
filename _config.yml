@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "박경철 조성원 김연주 성홍준 유승주"
+  name             : "MFT"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are amazing person."
-  location         : "유성삼성화제 "
+  bio              : "We are amazing persons."
+  location         : "유성삼성화제연수원 "
   email            :
   links:
     - label: "Email"

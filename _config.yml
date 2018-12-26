@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "내가 제일 좋아하는 조"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "박경철 조성원 성홍준 김연주 유승주"
+description              : "my favorite team"
 url                      : "https://yooseungju.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
